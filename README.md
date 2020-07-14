@@ -9,4 +9,4 @@
 - 💬 Ask me about Java, Algorithms, designing, movies,
 - 📫 How to reach me: rohan.saraf@oyorooms.com
 - 😄 Pronouns: He/Him/His
-- ⚡ People I follow: [Peter Norvig] (https://norvig.com/)
+- ⚡ People I follow: [Peter Norvig](https://norvig.com/)
